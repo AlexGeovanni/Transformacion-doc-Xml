@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:/C:/Users/Dell/Desktop/9%20Semestre/Servicio%20WEB/Practica5/motocicletas.xsl"?>
+<motos>
+    <moto>
+    <marca>Italika</marca>
+    <modelo>dl 150c</modelo>
+    </moto>
+    
+    <moto>
+    <marca>honda</marca>
+    <modelo>CRB190R REPSOL</modelo>
+    </moto>
+    
+    <moto>
+    <marca>Italika</marca>
+    <modelo>150Z</modelo>
+    </moto>
+    
+    <moto>
+    <marca>Pulsar</marca>
+    <modelo>200NS</modelo>
+    </moto>
+</motos>
